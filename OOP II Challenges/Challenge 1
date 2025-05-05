@@ -1,4 +1,4 @@
-// puts message on the screen
+
 public class Greeter {
      void greet() {
          System.out.println("Hi there");
